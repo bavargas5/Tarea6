@@ -22,7 +22,7 @@ Analizar toda la información necesaria de la corriente y voltaje AC además de 
 
 **CAPITULO 12**
 
-
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/Cpaci.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
