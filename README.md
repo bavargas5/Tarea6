@@ -15,6 +15,7 @@
 **CAPITULO 11**
 
 
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(18).png) 
 
 **CAPITULO 12**
 
@@ -130,7 +131,182 @@ El ángulo de fase entre las dos señales es de 15°, la onda A esta adelantada 
 
 ![](https://github.com/bavargas5/Tarea6/blob/main/IMGBV/33.png)  
 
+**41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/1.PNG) 
+
+Los armónicos impares son frecuencias que son múltiplos impares de la frecuencia fundamental de una forma de onda
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/2.PNG) 
+
+**43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/3.PNG) 
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/4.PNG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/5.PNG) 
+
+
+**45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/6.PNG) 
+
+
+Al examinar la escala vertical mostrada en la figura
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/7.PNG) 
+
+En la escala horizontal (un ciclo abarca diez divisiones),
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/8.PNG) 
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/9.PNG) 
+
+
 **CAPITULO 12**
+
+**1.	(a) Encuentre la capacitancia cuando Q = 50 uC y V =10 V**
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/10.PNG)
+
+
+(b) Determine la carga cuando C =0.001 uF y V =1 kV.
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/11.PNG)
+
+(c) Determine el voltaje cuando Q = 2 mC y C =200 uF
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/12.PNG)
+
+
+
+**3. Transforme los siguientes valores de picofarads a microfarads:**
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/13.PNG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/14.PNG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/15.PNG)
+
+
+**5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?**
+
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/16.PNG)
+
+
+**7.Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3
+para obtener los valores de er.
+(a) aire (b) aceite (c) vidrio (d) Teflón®**
+
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/17.PNG)
+
+Para el caso a
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/18.PNG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/19.PNG)
+
+
+Para el caso b
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/20.PNG)
+
+
+Para el caso c
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/21.PNG)
+
+Para el caso d
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/22.PNG)
+
+
+**9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 _ 10_4 m. Calcule la capacitancia.**
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/23.PNG)
+
+
+**15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?**
+
+Los dieléctricos de cerámica proporcionan constantes dieléctricas muy altas (1200 es un valor típico). Por consiguiente, se pueden alcanzar valores de capacitancia
+
+comparativamente altos en un tamaño físico pequeño.
+
+**17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros
+capacitores?**
+
+Los capacitores electrolíticos se polarizan de modo que una placa sea positiva y la otra negativa. Estos capacitores se utilizan para valores de capacitancia que van desde 1 mF 
+
+hasta más de 200,000 mF, pero sus voltajes de ruptura son relativamente bajos (350 V es un máximo característico) y sus cantidades de fuga son altas
+
+
+Los electrolíticos de aluminio son, probablemente, el tipo más utilizado. En tanto que otros capacitores utilizan dos placas similares, el capacitor electrolítico consta de una 
+
+placa de hoja de aluminio y de otra placa elaborada a partir de un electrolito conductor aplicado a determinado material
+
+
+La configuración de los electrolíticos de tantalio puede ser o tubular,
+
+
+El pentóxido de tantalio forma el dieléctrico, y el bióxido de manganeso constituye la placa negativa.
+
+
+**19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/24.PNG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/25.PNG)
+
+
+**21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69**
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/26.PNG)
+
+
+Para el circuito a
+
+Tenemos capacitores en serie por lo cual buscaremos su capacitancia t
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/27.PNG)
+
+Para el circuito b
+
+Tenemos capacitores en serie por lo cual buscaremos su capacitancia t
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/28.PNG)
+
+
+Para el circuito c
+
+Tenemos capacitores en serie por lo cual buscaremos su capacitancia t
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/29.PNG)
+
+**23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V.
+El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?**
+
+Para este caso usaremos el divisor de capacitores
+
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/30.PNG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/31.PNG)
+
+Con estos datos obtenidos calcularemos nuevamente el divisor de la capacitancia, pero en la otra componente 
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/32.PNG)
+
 
 
 
