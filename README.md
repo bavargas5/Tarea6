@@ -4,16 +4,19 @@
 
 **General**
 
-
+Analizar toda la información necesaria de la corriente y voltaje AC además de los circuitos con capacitores, para la resolución de ejercicios.
 
 **Específicos**
 
+- Resumir el material teórico relacionado con la corriente AC, voltaje AC y Capacitores.
 
+- Interpretar correctamente las ondas estudiadas.
+
+- Resolver circuitos eléctricos con capacitores.
 
 ## MARCO TEÓRICO (RESUMEN)
 
 **CAPITULO 11**
-
 
 ![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(18).png) 
 
@@ -349,10 +352,15 @@ Con estos datos obtenidos calcularemos nuevamente el divisor de la capacitancia,
 
 ## VIDEO
 
-
+https://youtu.be/NRodaPhgRr8
 
 ## CONCLUSIONES
 
+- En conclusión, la corriente y voltaje AC tiene una frecuencia y periodo determinado, en el cual pasa de tener un valor positivo a un valor negativo constantemente.
+
+- Las ondas pulsantes se caracterizan por tener transiciones rápidas desde una línea base hasta su máxima amplitud.
+
+- Los capacitores están construidos de varios materiales, los cuales también almacenan una carga eléctrica determinada, además estos elementos funcionan como filtros para fuentes de potencia. 
 
 ## BIBLIOGRAFÍA
 
