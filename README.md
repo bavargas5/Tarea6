@@ -307,8 +307,45 @@ Con estos datos obtenidos calcularemos nuevamente el divisor de la capacitancia,
 
 ![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20BN/32.PNG)
 
+**25. Determine la CT para cada circuito de la figura 12-71.**
 
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_Q25.JPG)
 
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R25.JPG)
+
+**27. Determine la CT para cada circuito de la figura 12-72.**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_Q27.JPG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R27.JPG)
+
+**29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados. (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_Q29.JPG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R29.JPG)
+
+**33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores? (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_Q33.JPG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R33.JPG)
+
+**35. Repita el problema 33 con los siguientes tiempos: (a) 0.5 ms (b) 1 ms (c) 2 ms**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R35.JPG)
+
+**37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_Q37.JPG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R37.JPG)
+
+**39. Determine la constante de tiempo para el circuito de la figura 12-77.**
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_Q39.JPG)
+
+![](https://github.com/bavargas5/Tarea6/blob/main/IMG%20T6/T_R39.JPG)
 
 ## VIDEO
 
